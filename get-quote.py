@@ -8,4 +8,4 @@ def maine():
   print(quotes[0])
 
 if __name__== "__maine__":
-  main()
+  maine()
